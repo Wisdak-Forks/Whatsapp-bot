@@ -36,7 +36,7 @@ const client = new Client({
     puppeteer: { headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] },
     authStrategy: new LocalAuth({
         clientId: 'client-one',
-        dataPath: './auth'
+        dataPath: './session'
     }),
 });
 
@@ -89,7 +89,7 @@ client.on('ready', async () => {
         console.log("[CLIENT] Starting logs...")
         client.commands.get('status').execute(client, null, args);
     } catch (error) {
-        console.error('[CLIENT ERROR]',  error);
+        console.error('[CLIENT ERROR]', error);
     }
 });
 
