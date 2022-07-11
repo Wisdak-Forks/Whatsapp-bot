@@ -1,30 +1,12 @@
-2022/07/11-14:29:46.614 2a00 Creating DB A:\A_SOURCE\Local\Web Dev\R HEMI\Whatsapp-bot\session\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/07/11-14:29:46.744 2a00 Reusing MANIFEST A:\A_SOURCE\Local\Web Dev\R HEMI\Whatsapp-bot\session\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/11-14:30:15.918 20c4 Level-0 table #5: started
-2022/07/11-14:30:16.015 20c4 Level-0 table #5: 1210520 bytes OK
-2022/07/11-14:30:16.060 20c4 Delete type=0 #3
-2022/07/11-14:30:30.631 2a00 Level-0 table #7: started
-2022/07/11-14:30:30.798 2a00 Level-0 table #7: 1062836 bytes OK
-2022/07/11-14:30:30.849 2a00 Delete type=0 #4
-2022/07/11-14:30:31.000 335c Compacting 1@1 + 1@2 files
-2022/07/11-14:30:31.195 335c Generated table #8@1: 22382 keys, 1214507 bytes
-2022/07/11-14:30:31.196 335c Compacted 1@1 + 1@2 files => 1214507 bytes
-2022/07/11-14:30:31.290 335c compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/07/11-14:30:41.911 2a00 Level-0 table #10: started
-2022/07/11-14:30:42.075 2a00 Level-0 table #10: 1102909 bytes OK
-2022/07/11-14:30:42.119 2a00 Delete type=2 #5
-2022/07/11-14:30:42.119 2a00 Delete type=0 #6
-2022/07/11-14:30:42.119 2a00 Delete type=2 #7
-2022/07/11-14:30:42.240 2a00 Compacting 1@1 + 1@2 files
-2022/07/11-14:30:42.517 2a00 Generated table #11@1: 29754 keys, 1596078 bytes
-2022/07/11-14:30:42.517 2a00 Compacted 1@1 + 1@2 files => 1596078 bytes
-2022/07/11-14:30:42.560 2a00 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/07/11-14:30:49.297 2c44 Level-0 table #13: started
-2022/07/11-14:30:49.570 2c44 Level-0 table #13: 1024309 bytes OK
-2022/07/11-14:30:49.621 2c44 Delete type=2 #8
-2022/07/11-14:30:49.621 2c44 Delete type=0 #9
-2022/07/11-14:30:49.622 2c44 Delete type=2 #10
-2022/07/11-14:30:50.186 2c44 Compacting 1@1 + 1@2 files
-2022/07/11-14:30:50.475 2c44 Generated table #14@1: 34884 keys, 1864461 bytes
-2022/07/11-14:30:50.475 2c44 Compacted 1@1 + 1@2 files => 1864461 bytes
-2022/07/11-14:30:50.497 2c44 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/11-15:04:51.938 2a14 Creating DB A:\A_SOURCE\Local\Web Dev\R HEMI\Whatsapp-bot\session\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/07/11-15:04:52.016 2a14 Reusing MANIFEST A:\A_SOURCE\Local\Web Dev\R HEMI\Whatsapp-bot\session\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/11-15:05:35.148 5004 Level-0 table #5: started
+2022/07/11-15:05:35.346 5004 Level-0 table #5: 1208073 bytes OK
+2022/07/11-15:05:35.398 5004 Delete type=0 #3
+2022/07/11-15:05:50.319 40e8 Level-0 table #7: started
+2022/07/11-15:05:50.512 40e8 Level-0 table #7: 1071069 bytes OK
+2022/07/11-15:05:50.563 40e8 Delete type=0 #4
+2022/07/11-15:05:50.854 40e8 Compacting 1@1 + 1@2 files
+2022/07/11-15:05:51.002 40e8 Generated table #8@1: 22671 keys, 1235717 bytes
+2022/07/11-15:05:51.002 40e8 Compacted 1@1 + 1@2 files => 1235717 bytes
+2022/07/11-15:05:51.053 40e8 compacted to: files[ 0 0 1 0 0 0 0 ]
