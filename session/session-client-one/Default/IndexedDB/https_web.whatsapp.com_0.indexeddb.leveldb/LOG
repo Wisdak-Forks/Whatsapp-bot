@@ -1,0 +1,14 @@
+2022/07/11-15:18:45.360 3b68 Reusing MANIFEST A:\A_SOURCE\Local\Web Dev\R HEMI\Whatsapp-bot\session\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/11-15:18:45.361 3b68 Recovering log #12
+2022/07/11-15:18:45.379 3b68 Reusing old log A:\A_SOURCE\Local\Web Dev\R HEMI\Whatsapp-bot\session\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000012.log 
+2022/07/11-15:18:45.379 3b68 Delete type=2 #11
+2022/07/11-15:18:45.379 3b68 Delete type=2 #13
+2022/07/11-15:19:14.553 27d4 Level-0 table #17: started
+2022/07/11-15:19:14.643 27d4 Level-0 table #17: 1136928 bytes OK
+2022/07/11-15:19:14.674 27d4 Delete type=0 #12
+2022/07/11-15:19:14.930 1d54 Compacting 1@1 + 1@2 files
+2022/07/11-15:19:15.148 1d54 Generated table #18@1: 43350 keys, 2194569 bytes
+2022/07/11-15:19:15.149 1d54 Compacted 1@1 + 1@2 files => 2194569 bytes
+2022/07/11-15:19:15.183 1d54 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/11-15:19:15.184 1d54 Delete type=2 #14
+2022/07/11-15:19:15.184 1d54 Delete type=2 #17
