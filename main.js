@@ -33,7 +33,11 @@ console.log(`[PREFIX] Current prefix: \"${currentPrefix}\"`);
 // --------------------------------------------------
 const client = new Client({
     restartOnAuthFail: true,
-    puppeteer: { headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] },
+    puppeteer: {
+        headless: true,
+        // executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+    },
     authStrategy: new LocalAuth({
         clientId: 'client-one',
         dataPath: './session'
