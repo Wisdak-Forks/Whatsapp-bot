@@ -32,8 +32,10 @@ console.log(`[PREFIX] Current prefix: \"${currentPrefix}\"`);
 // Configurations
 // --------------------------------------------------
 const client = new Client({
+    restartOnAuthFail: true,
     puppeteer: { headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] },
     authStrategy: new LocalAuth({
+        clientId: 'client-one',
         dataPath: './auth'
     }),
 });
