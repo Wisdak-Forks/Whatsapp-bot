@@ -33,7 +33,9 @@ console.log(`[PREFIX] Current prefix: \"${currentPrefix}\"`);
 // --------------------------------------------------
 const client = new Client({
     puppeteer: { headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] },
-    authStrategy: new LocalAuth(),
+    authStrategy: new LocalAuth({
+        dataPath: './auth'
+    }),
 });
 
 client.setMaxListeners(0); // for an infinite number of event listeners
